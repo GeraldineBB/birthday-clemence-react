@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/birthday_clemence_cra/static/css/main.8a787a4b.chunk.css",
+    "main.js": "/birthday_clemence_cra/static/js/main.a6358f3d.chunk.js",
+    "main.js.map": "/birthday_clemence_cra/static/js/main.a6358f3d.chunk.js.map",
+    "runtime-main.js": "/birthday_clemence_cra/static/js/runtime-main.13580aed.js",
+    "runtime-main.js.map": "/birthday_clemence_cra/static/js/runtime-main.13580aed.js.map",
+    "static/js/2.4434f8b5.chunk.js": "/birthday_clemence_cra/static/js/2.4434f8b5.chunk.js",
+    "static/js/2.4434f8b5.chunk.js.map": "/birthday_clemence_cra/static/js/2.4434f8b5.chunk.js.map",
+    "static/js/3.fc97424a.chunk.js": "/birthday_clemence_cra/static/js/3.fc97424a.chunk.js",
+    "static/js/3.fc97424a.chunk.js.map": "/birthday_clemence_cra/static/js/3.fc97424a.chunk.js.map",
+    "index.html": "/birthday_clemence_cra/index.html",
+    "static/css/main.8a787a4b.chunk.css.map": "/birthday_clemence_cra/static/css/main.8a787a4b.chunk.css.map",
+    "static/js/2.4434f8b5.chunk.js.LICENSE.txt": "/birthday_clemence_cra/static/js/2.4434f8b5.chunk.js.LICENSE.txt",
+    "static/js/3.fc97424a.chunk.js.LICENSE.txt": "/birthday_clemence_cra/static/js/3.fc97424a.chunk.js.LICENSE.txt",
+    "static/media/Ane.569e05b2.svg": "/birthday_clemence_cra/static/media/Ane.569e05b2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13580aed.js",
+    "static/js/2.4434f8b5.chunk.js",
+    "static/css/main.8a787a4b.chunk.css",
+    "static/js/main.a6358f3d.chunk.js"
+  ]
+}
