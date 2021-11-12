@@ -8,9 +8,12 @@ import useSound from 'use-sound';
 
 import './styles.scss';
 
+import AneSong from '../../assets/sons/Ane.mp3';
+
+
 // == Composant
 const Response = ({ animal }) => {
-  const [song, setSong] = useState('sons/Ane.mp3');
+  const [song, setSong] = useState(AneSong);
   const [play, { stop }] = useSound(song);
 
   const [isOn, toggleIsOn] = useToggle();

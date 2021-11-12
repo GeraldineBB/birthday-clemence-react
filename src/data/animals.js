@@ -1,40 +1,53 @@
 import Ane from '../assets/images/Ane.svg';
+import Cheval from '../assets/images/Cheval.svg';
+import Cochon from '../assets/images/Cochon.svg';
+import Mouton from '../assets/images/Mouton.svg';
+import Poule from '../assets/images/Poule.svg';
+import Vache from '../assets/images/Vache.svg';
+
+import AneSong from '../assets/sons/Ane.mp3';
+import ChevalSong from '../assets/sons/Cheval.mp3';
+import CochonSong from '../assets/sons/Cochon.mp3';
+import MoutonSong from '../assets/sons/Mouton.mp3';
+import PouleSong from '../assets/sons/Poule.mp3';
+import VacheSong from '../assets/sons/Vache.mp3';
+
 
 export default [
   {
     name: 'Ane',
     picture: Ane,
     color: 'blue', 
-    audio: 'sons/Ane.mp3'
+    audio: AneSong
   },
   {
     name: 'Cheval',
-    picture: 'images/Cheval.svg',
+    picture: Cheval,
     color: 'orange', 
-    audio: 'sons/Cheval.mp3'
+    audio: ChevalSong
   },
   {
     name: 'Cochon',
-    picture: 'images/Cochon.svg',
+    picture: Cochon,
     color: 'blue', 
-    audio: 'sons/Cochon.mp3'
+    audio: CochonSong
   },
   {
     name: 'Mouton',
-    picture: 'images/Mouton.svg',
+    picture: Mouton,
     color: 'orange', 
-    audio: 'sons/Mouton.mp3'
+    audio: MoutonSong
   },
   {
     name: 'Poule',
-    picture: 'images/Poule.svg',
+    picture: Poule,
     color: 'blue', 
-    audio: 'sons/Poule.mp3'
+    audio: PouleSong
   },
   {
     name: 'Vache',
-    picture: 'images/Vache.svg',
+    picture: Vache,
     color: 'orange', 
-    audio: 'sons/Vache.mp3'
+    audio: VacheSong
   },
 ];
