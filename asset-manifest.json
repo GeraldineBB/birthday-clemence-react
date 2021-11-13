@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/birthday_clemence_cra/static/css/main.e89ca75b.chunk.css",
-    "main.js": "/birthday_clemence_cra/static/js/main.e238d451.chunk.js",
-    "main.js.map": "/birthday_clemence_cra/static/js/main.e238d451.chunk.js.map",
+    "main.js": "/birthday_clemence_cra/static/js/main.a52bff9d.chunk.js",
+    "main.js.map": "/birthday_clemence_cra/static/js/main.a52bff9d.chunk.js.map",
     "runtime-main.js": "/birthday_clemence_cra/static/js/runtime-main.13580aed.js",
     "runtime-main.js.map": "/birthday_clemence_cra/static/js/runtime-main.13580aed.js.map",
     "static/js/2.4434f8b5.chunk.js": "/birthday_clemence_cra/static/js/2.4434f8b5.chunk.js",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.13580aed.js",
     "static/js/2.4434f8b5.chunk.js",
     "static/css/main.e89ca75b.chunk.css",
-    "static/js/main.e238d451.chunk.js"
+    "static/js/main.a52bff9d.chunk.js"
   ]
 }
