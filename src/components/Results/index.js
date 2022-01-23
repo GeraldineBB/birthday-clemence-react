@@ -12,10 +12,7 @@ import './styles.scss';
 
 // == Composant
 const Results = ({ AnimalsData }) => {
-  const [song, setSong] = useState('sons/Ane.mp3');
-  const [play, { stop }] = useSound(song);
 
-  const [isOn, toggleIsOn] = useToggle();
 
   return (
     <div className="container">
